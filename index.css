@@ -1,0 +1,60 @@
+
+
+
+
+
+body {
+    background-image: url("space.webp");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: rgb(231, 174, 224);
+    text-align: center;
+    height: 100vh;
+}
+.container{
+    background-color: rgb(36, 8, 134);
+    border:1px solid black;
+    max-width: 80%;
+    margin:50px auto;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+
+button {
+    border: none;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+
+#increment-btn {
+    background: rgb(190, 40, 140);
+}
+
+#save-btn {
+    background: rgb(126, 111, 211);
+}
+#save-el{
+    text-shadow: 1px 1px 1px black;
+}
+
