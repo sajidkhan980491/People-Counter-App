@@ -15,8 +15,8 @@ body {
 .container{
     background-color: rgb(36, 8, 134);
     border:1px solid black;
-    max-width: 80%;
-    margin:50px auto;
+    max-width: 50%;
+    margin: 150px auto;
     border-radius: 10px;
     
 }
